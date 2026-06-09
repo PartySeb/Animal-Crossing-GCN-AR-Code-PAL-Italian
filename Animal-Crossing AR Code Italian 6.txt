@@ -1,0 +1,162 @@
+Have Always Nookway Shop (Temporary) [Ralf]
+20006A90 88FF0330
+06003F20 0000001C
+57C4043E 28045803
+40810010 28045808
+40800008 38805806
+48EF7C18 00000000
+04EFBB4C 4B1083D4
+E2000001 80008000
+
+Have Always Nookway Shop (Permanently) [Ralf]
+20006A90 88FF0330
+06003F20 0000001C
+28045803 40810010
+28045808 40800008
+38805806 7C9E2378
+48EF7B88 00000000
+04EFBABC 4B108464
+E2000001 80008000
+
+Tom Nook's Shop Modifier v1 (Temporary) [Ralf]
+20006A90 88FF0330
+06003F20 0000001C
+57C4043E 28045803
+40810010 28045808
+40800008 388058xx
+48EF7C18 00000000
+04EFBB4C 4B1083D4
+E2000001 80008000
+
+xx = Shop ID
+
+Tom Nook's Shop Modifier v2 (Permanently) [Ralf]
+20006A90 88FF0330
+06003F20 0000001C
+28045803 40810010
+28045808 40800008
+388058xx 7C9E2378
+48EF7B88 00000000
+04EFBABC 4B108464
+E2000001 80008000
+
+xx = Shop ID
+
+04 - Nook's Cranny
+05 - Nook 'n' Go
+06 - Nookway
+07 - Nookington's
+
+Tom Nook's Shop Modifier v3 (Temporary, Press Z + DPad Up/Down/Left/Right) [Ralf]
+20006A90 88FF0330
+06003F20 0000002C
+57C4043E 28045803
+40810020 28045808
+40800018 3C608000
+80030088 28000000
+41820008 7C040378
+48EF7C08 00000000
+04EFBB4C 4B1083D4
+E2000001 80008000
+2821D3D0 00000011
+04000088 00005805
+E2000001 80008000
+2821D3D0 00000012
+04000088 00005806
+E2000001 80008000
+2821D3D0 00000014
+04000088 00005804
+E2000001 80008000
+2821D3D0 00000018
+04000088 00005807
+E2000001 80008000
+
+Z + DPad Up    = Nookington's
+Z + DPad Down  = Nook's Cranny
+Z + DPad Left  = Nook 'n' Go
+Z + DPad Right = Nookway
+
+Tom Nook's Shop Modifier v4 (Permanently, Press Z + DPad Up/Down/Left/Right) [Ralf]
+20006A90 88FF0330
+06003F20 0000002C
+28045803 40810020
+28045808 40800018
+3FC08000 801E0088
+28000000 41820008
+7C040378 7C9E2378
+48EF7B78 00000000
+04EFBABC 4B108464
+E2000001 80008000
+2821D3D0 00000011
+04000088 00005805
+E2000001 80008000
+2821D3D0 00000012
+04000088 00005806
+E2000001 80008000
+2821D3D0 00000014
+04000088 00005804
+E2000001 80008000
+2821D3D0 00000018
+04000088 00005807
+E2000001 80008000
+
+Z + DPad Up    = Nookington's
+Z + DPad Down  = Nook's Cranny
+Z + DPad Left  = Nook 'n' Go
+Z + DPad Right = Nookway
+
+Upper Left Player House Roof Color Modifier [Ralf]
+01104714 000000xx
+
+xx = Color ID
+
+Upper Right Player House Roof Color Modifier [Ralf]
+01106DC4 000000xx
+
+xx = Color ID
+
+Lower Left Player House Roof Color Modifier [Ralf]
+01109474 000000xx
+
+xx = Color ID
+
+Lower Right Player House Roof Color Modifier [Ralf]
+0110BB24 000000xx
+
+xx = Color ID
+
+00 - Red
+01 - Orange
+02 - Yellow
+03 - Pale Green
+04 - Green
+05 - Sky Blue
+06 - Blue
+07 - Purple
+08 - Pink
+09 - Black
+0A - White
+0B - Brown
+
+Train Station Type Modifier [Ralf]
+0111B918 000000xx
+
+xx = Train Station Type
+
+00 - Wooden Train Station (Green)
+01 - Wooden Train Station (Red)
+02 - Wooden Train Station (Purple)
+03 - Wooden Train Station (Blue)
+04 - Wooden Train Station (Orange)
+
+05 - Metal Train Station (Red)
+06 - Metal Train Station (Orange)
+07 - Metal Train Station (Green)
+08 - Metal Train Station (Blue)
+09 - Metal Train Station (Purple)
+
+0A - Brick Train Station (Green)
+0B - Brick Train Station (Blue)
+0C - Brick Train Station (Green Alt.)
+0D - Brick Train Station (Purple)
+0E - Brick Train Station (Red)

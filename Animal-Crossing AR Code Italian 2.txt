@@ -1,0 +1,139 @@
+16:9 Aspect Ratio v2 (Widescreen) [Ralf]
+2005F1FC 7C7E1B78
+060037A0 00000010
+3C608000 C38337AC
+4805BA5C 3FE38E39
+0405F200 4BFA45A0
+04F83350 42580000
+04F8339C 42580000
+E2000001 80008000
+
+Incl. Screen Fader Fix
+
+Insects: Purely Random Encounters [Ralf]
+20ED36E0 938301CC
+C2ED36E8 00000004
+7D8C42E6 718CFFFF
+39C00028 7D0C73D6
+7D0871D6 7D086050
+910301D0 00000000
+E2000001 80008000
+
+Fishes: Purely Random Encounters [Ralf]
+20ED36E0 938301CC
+C2EE092C 00000004
+7D0C42E6 7108FFFF
+39200028 7D484BD6
+7D4A49D6 7D4A4050
+39000000 00000000
+E2000001 80008000
+
+
+Insect Encounter Modifier [Ralf]
+04ED36E4 390000xx
+
+xx = Insect ID
+
+
+Insect IDs
+
+00 - Common Butterfly
+01 - Yellow Butterfly
+02 - Tiger Butterfly
+03 - Purple Butterfly
+04 - Robust Cicada
+05 - Walker Cicada
+06 - Evening Cicada
+07 - Brown Cicada
+08 - Bee
+09 - Common Dragonfly
+0A - Red Dragonfly
+0B - Darner Dragonfly
+0C - Banded Dragonfly
+0D - Long Locust
+0E - Migratory Locust
+0F - Cricket
+
+10 - Grasshopper
+11 - Bell Cricket
+12 - Pine Cricket
+13 - Drone Beetle
+14 - Dynastid Beetle
+15 - Flat Stag Beetle
+16 - Jewel Beetle
+17 - Longhorn Beetle
+18 - Ladybug
+19 - Spotted Ladybug
+1A - Mantis
+1B - Firefly
+1C - Cockroach
+1D - Saw Stag Beetle
+1E - Mountain Beetle
+1F - Giant Beetle
+
+20 - Snail
+21 - Mole Cricket
+22 - Pond Skater
+23 - Bagworm
+24 - Pill Bug
+25 - Spider
+26 - Ant
+27 - Mosquito
+28 - Spirit
+
+
+Fish Encounter Modifier [Ralf]
+04EE0928 394000xx
+
+xx = Fish ID
+
+
+Fish IDs
+
+00 - Crucian Carp
+01 - Brook Trout
+02 - Carp
+03 - Koi
+04 - Catfish
+05 - Small Bass
+06 - Bass
+07 - Large Bass
+08 - Bluegill
+09 - Giant Catfish
+0A - Giant Snakehead
+0B - Barbel Steed
+0C - Dace
+0D - Pale Chub
+0E - Bitterling
+0F - Loach
+
+10 - Pond Smelt
+11 - Sweetfish
+12 - Cherry Salmon
+13 - Large Char
+14 - Rainbow Trout
+15 - Stringfish
+16 - Salmon
+17 - Goldfish
+18 - Piranha
+19 - Arowana
+1A - Eel
+1B - Freshwater Goby
+1C - Angelfish
+1D - Guppy
+1E - Popeyed Goldfish
+1F - Coelacanth
+
+20 - Crawfish
+21 - Frog
+22 - Killifish
+23 - Jellyfish
+24 - Sea Bass
+25 - Red Snapper
+26 - Barred Knifejaw
+27 - Arapaima
+28 - None
+29 - Empty Can
+2A - Old Shoe
+2B - Tire
+2C - Salmon

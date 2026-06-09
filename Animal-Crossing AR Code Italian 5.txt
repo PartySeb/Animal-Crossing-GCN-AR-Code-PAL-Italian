@@ -1,0 +1,49 @@
+Disable Deflicker Screen Filter [Ralf]
+200A0838 50603DF0
+040A0798 48000040
+E2000001 80008000
+
+Screen Gamma Correction: 1.7 [Ralf]
+200A0838 50603DF0
+04063CDC 38600001
+04064110 38600001
+04064200 38600001
+0409DCFC 38600001
+E2000001 80008000
+
+Screen Gamma Correction Modifier [Ralf]
+200A0838 50603DF0
+04063CDC 386000xx
+04064110 386000xx
+04064200 386000xx
+0409DCFC 386000xx
+E2000001 80008000
+
+xx = Gamma Correction Value ID
+
+00 - Gamma 1.0 (Default)
+01 - Gamma 1.7
+02 - Gamma 2.2
+
+Replace Nookington's Music With Nookway Music [Ralf]
+04CAD160 38600051
+04CAD19C 38600026
+
+Nook's Cranny Background Music Modifier [Ralf]
+04CAD138 386000xx - Default: 4F
+04CAD174 386000yy - Default: 2C
+
+Nook 'n' Go Background Music Modifier [Ralf]
+04CAD148 386000xx - Default: 50
+04CAD184 386000yy - Default: 25
+
+Nookway Background Music Modifier [Ralf]
+04CAD158 386000xx - Default: 51
+04CAD194 386000yy - Default: 26
+
+Nookington's Background Music Modifier [Ralf]
+04CAD160 386000xx - Default: 52
+04CAD19C 386000yy - Default: 27
+
+xx = Song 1 ID (00 .. FF)
+yy = Song 2 ID
