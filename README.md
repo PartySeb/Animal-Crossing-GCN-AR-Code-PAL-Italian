@@ -15,6 +15,10 @@ IMPORTANT: These codes ONLY work with the following requirements:
   If you are playing the PAL version in FRENCH, try this instead
 
   https://github.com/PartySeb/Animal-Crossing-GCN-AR-Code-PAL-FRENCH
+
+  If you are playing the PAL version in GERMAN, try this instead
+
+  https://github.com/PartySeb/Animal-Crossing-GCN-AR-Code-PAL-GERMAN
   
 --------------------------------------------------
 NOTE ON FUNCTIONALITY
